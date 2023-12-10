@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme": "lazy-translation",
     "name": "lazy-translation",
     "slug": "lazy-translation",
     "version": "1.0.0",
