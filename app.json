@@ -1,8 +1,8 @@
 {
   "expo": {
-    "scheme": "lazy-translation",
-    "name": "lazy-translation",
-    "slug": "lazy-translation",
+    "scheme": "lazy-app",
+    "name": "lazy-app",
+    "slug": "lazy-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
